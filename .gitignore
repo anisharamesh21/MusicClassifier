@@ -1,0 +1,9 @@
+# Ignore the raw audio data
+data/
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment folder
+.venv/
