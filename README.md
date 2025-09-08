@@ -26,11 +26,11 @@ jupyter notebook model_training.ipynb
 ```
 
 ## Files
-features_extractor.ipynb - Extraction of major features from audios
-eda.ipynb - Exploratory Data Analysis
-model_training.ipynb - Model Training using Logistic Regression
-hyperparameter_tuning.py - GridSearchCV optimization
-features.txt - GTZAN audio features
+- features_extractor.ipynb - Extraction of major features from audios
+- eda.ipynb - Exploratory Data Analysis
+- model_training.ipynb - Model Training using Logistic Regression
+- hyperparameter_tuning.py - GridSearchCV optimization
+- features.txt - GTZAN audio features
 
 ## Tech Stack
 Python | scikit-learn | pandas | seaborn | matplotlib
