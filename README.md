@@ -27,10 +27,10 @@ jupyter notebook model_training.ipynb
 
 To reproduce results: Open model_training.ipynb or hyperparameter_tuning.ipynb
 
-Note: This project uses pre-extracted features (features.txt). To extract features from scratch, you'll need:<br>
-Download the [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) <br>
-Run features_extracter.ipynb to generate your own features<br>
-Or use the provided features.txt to skip feature extraction
+Note: This project uses pre-extracted features (features.txt). To extract features from scratch, follow these steps:<br>
+- Download the [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) <br>
+- Run features_extracter.ipynb to generate your own features<br>
+- Or use the provided features.txt to skip feature extraction
 
 ## Files
 - features_extractor.ipynb - Extraction of major features from audios
