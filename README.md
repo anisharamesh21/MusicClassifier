@@ -35,4 +35,4 @@ features.txt - GTZAN audio features
 ## Tech Stack
 Python | scikit-learn | pandas | seaborn | matplotlib
 
-*Built during summer 2024 while learning ML!* 🚀
+*Built during summer 2025 while learning ML!* 🚀
