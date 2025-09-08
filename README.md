@@ -30,7 +30,9 @@ To reproduce results: Open model_training.ipynb or hyperparameter_tuning.ipynb
 Note: This project uses pre-extracted features (features.txt). To extract features from scratch, you'll need:
 
 Download the [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
 Run features_extracter.ipynb to generate your own features
+
 Or use the provided features.txt to skip feature extraction
 
 ## Files
