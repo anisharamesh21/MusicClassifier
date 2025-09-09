@@ -5,7 +5,7 @@ Classify music genres using machine learning! This project uses logistic regress
 ## Dataset
 - **GTZAN Music Genre Dataset:** 1,000 songs (100 per genre)
 - **Genres:** Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, Rock
-- **Features:** MFCCs, spectral features, tempo, chroma
+- **Features:** MFCCs, Spectral Centroid, ZCR
 
 ## Results
 - **Accuracy:** 69% (6.9x better than random!)
