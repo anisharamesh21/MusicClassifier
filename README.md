@@ -36,7 +36,7 @@ Note: This project uses pre-extracted features (features.txt). To extract featur
 - features_extractor.ipynb - Extraction of major features from audios
 - eda.ipynb - Exploratory Data Analysis
 - model_training.ipynb - Model Training using Logistic Regression
-- hyperparameter_tuning.py - GridSearchCV optimization
+- hyperparameter_tuning.ipynb - GridSearchCV optimization
 - features.txt - GTZAN audio features
 
 ## Tech Stack
